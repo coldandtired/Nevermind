@@ -1,0 +1,5 @@
+name: Nevermind
+version: 1.0
+author: coldandtired
+main: me.coldandtired.nevermind.Main
+description: A plugin to remove blocks and items from the world
